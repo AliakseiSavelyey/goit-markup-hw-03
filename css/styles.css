@@ -110,6 +110,8 @@ body {
 .container {
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
   width: 900px;
   outline: 2px solid khaki;
 }
@@ -180,8 +182,15 @@ h3 {
 }
 
 /* team */
+
 .section-team {
   text-align: center;
+  margin-top: 0;
+  margin-bottom: 29px;
+}
+.our-team {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* button */
